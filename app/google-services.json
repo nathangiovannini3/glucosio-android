@@ -10,7 +10,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:45702392997:android:f3028c79631bec51",
         "android_client_info": {
-          "package_name": "org.glucosio.android"
+          "package_name": "org.mydiabetes.android"
         }
       },
       "oauth_client": [
@@ -18,7 +18,7 @@
           "client_id": "45702392997-ueime3quq29n9r7ir2o87n2jinvuggg3.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "org.glucosio.android",
+            "package_name": "org.mydiabetes.android",
             "certificate_hash": "A18AA65A6EFE7F0DE3BA409A02EA6703E21CFEFD"
           }
         },
